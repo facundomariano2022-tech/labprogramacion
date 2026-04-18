@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="UrYAJ5wpBOcvLd0DHFAM">
-    <mxGraphModel>
+    <mxGraphModel dx="860" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mGMgvJIaK3XyyRw7IGzE-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SOCIO" vertex="1">
+          <mxGeometry height="60" width="150" x="90" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mGMgvJIaK3XyyRw7IGzE-7" edge="1" parent="1" source="mGMgvJIaK3XyyRw7IGzE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;startSize=18;endSize=18;" target="mGMgvJIaK3XyyRw7IGzE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mGMgvJIaK3XyyRw7IGzE-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="-NROSOCIO: STRING&lt;div&gt;NOMBRE:STRING&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="150" x="90" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mGMgvJIaK3XyyRw7IGzE-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="RESERVA" vertex="1">
+          <mxGeometry height="60" width="150" x="400" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mGMgvJIaK3XyyRw7IGzE-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FECHA: STRING&lt;div&gt;TIPODEPORTE:STRING&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="150" x="400" y="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
